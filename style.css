@@ -1,0 +1,59 @@
+header{
+    font-size:large; color: green; text-align: center;
+}
+h1{
+    color: red
+}
+h2{
+    color: blue;
+}
+h3{
+    color: green;
+}
+h4{
+    color: yellow;
+}
+h5{
+    color: purple;
+}
+h6{
+    color: pink;
+}
+fieldset{
+    max-width:200px; padding:10px;
+    background-color: rgb(238, 155, 155);
+    font-size: large;
+    border-width: 5px;
+    border-color: red;
+    border-style: dotted;
+}
+hr{
+    border-width: 5px;
+    border-color: black;
+}
+p{
+    background: white;
+    padding: 10px;
+    margin: 10px;
+    border: 5px double black;
+    border-radius: 20px;
+}
+
+.div1{
+    width: 300px; background: yellow; padding: 10px;
+}
+.div2{
+    width: 300px; background: greenyellow; padding: 10px;
+}
+.menu-item{
+    color: black;
+    padding: 5px;
+    border: 2px solid black;
+}
+#sign-up{
+    width: 300px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+    
+}
